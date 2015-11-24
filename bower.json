@@ -1,0 +1,22 @@
+{
+  "name": "ContentTools",
+  "description": "Package of different contenttools",
+  "main": [
+    "build/content-tools.min.js",
+    "build/content-tools.min.css"
+  ],
+  "authors": [
+    "bastiaan@bleeve.nl"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/RazzyJohnson/ContentTools",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
